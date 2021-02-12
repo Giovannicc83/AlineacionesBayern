@@ -1,0 +1,14 @@
+/*selector{
+    propiedad: valor;
+}
+*/
+
+th {
+  background-color: darkgreen;
+  color: darkgrey;
+  text-align: center;
+}
+td {
+  background-color: darkseagreen;
+  text-align: center;
+}
